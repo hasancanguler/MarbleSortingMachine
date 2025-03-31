@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qV4yJXgaMh2yxeE13SIImoyu+M6YFrf3Kwie6txsYHs=",
+  "Source": "MarbleSortingMachine.API",
+  "BasePath": "_content/MarbleSortingMachine.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

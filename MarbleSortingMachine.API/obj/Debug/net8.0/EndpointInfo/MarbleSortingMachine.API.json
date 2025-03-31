@@ -1,0 +1,165 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "MarbleSortingMachine.API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/Arm/Sort": {
+      "get": {
+        "tags": [
+          "Arm"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ContainerBase"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ContainerBase"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ContainerBase"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/Arm/SortByColor": {
+      "get": {
+        "tags": [
+          "Arm"
+        ],
+        "parameters": [
+          {
+            "name": "color",
+            "in": "query",
+            "schema": {
+              "$ref": "#/components/schemas/Colors"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ContainerBase"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ContainerBase"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ContainerBase"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Colors": {
+        "enum": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "ContainerBase": {
+        "type": "object",
+        "properties": {
+          "width": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "height": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "depth": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "volume": {
+            "type": "integer",
+            "format": "int64",
+            "readOnly": true
+          },
+          "capasity": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "currentAmount": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "marbles": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/MarbleBase"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "MarbleBase": {
+        "type": "object",
+        "properties": {
+          "halfDiameter": {
+            "type": "number",
+            "format": "double"
+          },
+          "density": {
+            "type": "number",
+            "format": "double"
+          },
+          "color": {
+            "$ref": "#/components/schemas/Colors"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
