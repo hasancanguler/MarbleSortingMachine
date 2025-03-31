@@ -1,0 +1,11 @@
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Contracts\bin\Debug\net8.0\MarbleSortingMachine.Contracts.deps.json
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Contracts\bin\Debug\net8.0\MarbleSortingMachine.Contracts.dll
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Contracts\bin\Debug\net8.0\MarbleSortingMachine.Contracts.pdb
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Contracts\obj\Debug\net8.0\MarbleSortingMachine.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Contracts\obj\Debug\net8.0\MarbleSortingMachine.Contracts.AssemblyInfoInputs.cache
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Contracts\obj\Debug\net8.0\MarbleSortingMachine.Contracts.AssemblyInfo.cs
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Contracts\obj\Debug\net8.0\MarbleSortingMachine.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Contracts\obj\Debug\net8.0\MarbleSortingMachine.Contracts.dll
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Contracts\obj\Debug\net8.0\refint\MarbleSortingMachine.Contracts.dll
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Contracts\obj\Debug\net8.0\MarbleSortingMachine.Contracts.pdb
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Contracts\obj\Debug\net8.0\ref\MarbleSortingMachine.Contracts.dll

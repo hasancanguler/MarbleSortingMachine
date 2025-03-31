@@ -1,0 +1,11 @@
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Domain\bin\Debug\net8.0\MarbleSortingMachine.Domain.deps.json
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Domain\bin\Debug\net8.0\MarbleSortingMachine.Domain.dll
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Domain\bin\Debug\net8.0\MarbleSortingMachine.Domain.pdb
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Domain\obj\Debug\net8.0\MarbleSortingMachine.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Domain\obj\Debug\net8.0\MarbleSortingMachine.Domain.AssemblyInfoInputs.cache
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Domain\obj\Debug\net8.0\MarbleSortingMachine.Domain.AssemblyInfo.cs
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Domain\obj\Debug\net8.0\MarbleSortingMachine.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Domain\obj\Debug\net8.0\MarbleSortingMachine.Domain.dll
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Domain\obj\Debug\net8.0\refint\MarbleSortingMachine.Domain.dll
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Domain\obj\Debug\net8.0\MarbleSortingMachine.Domain.pdb
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Domain\obj\Debug\net8.0\ref\MarbleSortingMachine.Domain.dll
