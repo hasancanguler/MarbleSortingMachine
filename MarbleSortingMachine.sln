@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarbleSortingMachine.API", "MarbleSortingMachine.API\MarbleSortingMachine.API.csproj", "{019CCFED-E409-4DE6-AAA9-07C50049EFC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarbleSortingMachine.Contracts", "MarbleSortingMachine.Contracts\MarbleSortingMachine.Contracts.csproj", "{5E1A3370-CC19-4D83-92EA-FEC1B8C7DD56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarbleSortingMachine.Infrastructure", "MarbleSortingMachine.Infrastructure\MarbleSortingMachine.Infrastructure.csproj", "{925A5EC8-00AD-434F-8CF9-BF5B187CAA11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarbleSortingMachine.Domain", "MarbleSortingMachine.Domain\MarbleSortingMachine.Domain.csproj", "{752305DA-C577-4F2C-A0CB-86BEC5E66FB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarbleSortingMachine.UnitTests", "MarbleSortingMachine.UnitTests\MarbleSortingMachine.UnitTests.csproj", "{DE6B56A2-F637-4ED7-8203-F42613F11977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{019CCFED-E409-4DE6-AAA9-07C50049EFC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{019CCFED-E409-4DE6-AAA9-07C50049EFC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{019CCFED-E409-4DE6-AAA9-07C50049EFC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{019CCFED-E409-4DE6-AAA9-07C50049EFC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E1A3370-CC19-4D83-92EA-FEC1B8C7DD56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E1A3370-CC19-4D83-92EA-FEC1B8C7DD56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E1A3370-CC19-4D83-92EA-FEC1B8C7DD56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E1A3370-CC19-4D83-92EA-FEC1B8C7DD56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{925A5EC8-00AD-434F-8CF9-BF5B187CAA11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925A5EC8-00AD-434F-8CF9-BF5B187CAA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925A5EC8-00AD-434F-8CF9-BF5B187CAA11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925A5EC8-00AD-434F-8CF9-BF5B187CAA11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{752305DA-C577-4F2C-A0CB-86BEC5E66FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752305DA-C577-4F2C-A0CB-86BEC5E66FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752305DA-C577-4F2C-A0CB-86BEC5E66FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752305DA-C577-4F2C-A0CB-86BEC5E66FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE6B56A2-F637-4ED7-8203-F42613F11977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6B56A2-F637-4ED7-8203-F42613F11977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6B56A2-F637-4ED7-8203-F42613F11977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6B56A2-F637-4ED7-8203-F42613F11977}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
