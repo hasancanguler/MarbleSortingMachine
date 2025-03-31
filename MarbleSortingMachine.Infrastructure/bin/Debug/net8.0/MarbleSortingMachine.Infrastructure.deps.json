@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MarbleSortingMachine.Infrastructure/1.0.0": {
+        "dependencies": {
+          "MarbleSortingMachine.Contracts": "1.0.0",
+          "MarbleSortingMachine.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MarbleSortingMachine.Infrastructure.dll": {}
+        }
+      },
+      "MarbleSortingMachine.Contracts/1.0.0": {
+        "runtime": {
+          "MarbleSortingMachine.Contracts.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MarbleSortingMachine.Domain/1.0.0": {
+        "runtime": {
+          "MarbleSortingMachine.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarbleSortingMachine.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MarbleSortingMachine.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MarbleSortingMachine.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

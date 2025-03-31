@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MarbleSortingMachine.Contracts\MarbleSortingMachine.Contracts.csproj" />
+    <ProjectReference Include="..\MarbleSortingMachine.Domain\MarbleSortingMachine.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

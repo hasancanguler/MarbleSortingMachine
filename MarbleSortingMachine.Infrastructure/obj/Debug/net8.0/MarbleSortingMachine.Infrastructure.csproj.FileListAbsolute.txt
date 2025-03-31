@@ -1,0 +1,17 @@
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Infrastructure\bin\Debug\net8.0\MarbleSortingMachine.Infrastructure.deps.json
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Infrastructure\bin\Debug\net8.0\MarbleSortingMachine.Infrastructure.dll
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Infrastructure\bin\Debug\net8.0\MarbleSortingMachine.Infrastructure.pdb
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Infrastructure\bin\Debug\net8.0\MarbleSortingMachine.Domain.dll
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Infrastructure\bin\Debug\net8.0\MarbleSortingMachine.Domain.pdb
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Infrastructure\obj\Debug\net8.0\MarbleSortingMachine.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Infrastructure\obj\Debug\net8.0\MarbleSortingMachine.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Infrastructure\obj\Debug\net8.0\MarbleSortingMachine.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Infrastructure\obj\Debug\net8.0\MarbleSortingMachine.Infrastructure.AssemblyInfo.cs
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Infrastructure\obj\Debug\net8.0\MarbleSortingMachine.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Infrastructure\obj\Debug\net8.0\MarbleSo.4549E35B.Up2Date
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Infrastructure\obj\Debug\net8.0\MarbleSortingMachine.Infrastructure.dll
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Infrastructure\obj\Debug\net8.0\refint\MarbleSortingMachine.Infrastructure.dll
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Infrastructure\obj\Debug\net8.0\MarbleSortingMachine.Infrastructure.pdb
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Infrastructure\obj\Debug\net8.0\ref\MarbleSortingMachine.Infrastructure.dll
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Infrastructure\bin\Debug\net8.0\MarbleSortingMachine.Contracts.dll
+C:\Users\hcguler\OneDrive - Lely\Desktop\Files\Project\MarbleSortingMachine\MarbleSortingMachine\MarbleSortingMachine.Infrastructure\bin\Debug\net8.0\MarbleSortingMachine.Contracts.pdb
