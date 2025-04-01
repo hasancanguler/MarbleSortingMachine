@@ -1,15 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "AVVytETyJkk=",
+  "dgSpecHash": "wp07CRTqS6Q=",
   "success": true,
   "projectFilePath": "C:\\Users\\hcguler\\OneDrive - Lely\\Desktop\\Files\\Project\\MarbleSortingMachine\\MarbleSortingMachine\\MarbleSortingMachine.API\\MarbleSortingMachine.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\hcguler\\.nuget\\packages\\ben.demystifier\\0.4.1\\ben.demystifier.0.4.1.nupkg.sha512",
+    "C:\\Users\\hcguler\\.nuget\\packages\\elastic.channels\\0.7.5\\elastic.channels.0.7.5.nupkg.sha512",
+    "C:\\Users\\hcguler\\.nuget\\packages\\elastic.commonschema\\8.12.3\\elastic.commonschema.8.12.3.nupkg.sha512",
+    "C:\\Users\\hcguler\\.nuget\\packages\\elastic.commonschema.serilog\\8.12.3\\elastic.commonschema.serilog.8.12.3.nupkg.sha512",
+    "C:\\Users\\hcguler\\.nuget\\packages\\elastic.ingest.elasticsearch\\0.7.5\\elastic.ingest.elasticsearch.0.7.5.nupkg.sha512",
+    "C:\\Users\\hcguler\\.nuget\\packages\\elastic.ingest.elasticsearch.commonschema\\8.12.3\\elastic.ingest.elasticsearch.commonschema.8.12.3.nupkg.sha512",
+    "C:\\Users\\hcguler\\.nuget\\packages\\elastic.ingest.transport\\0.7.5\\elastic.ingest.transport.0.7.5.nupkg.sha512",
+    "C:\\Users\\hcguler\\.nuget\\packages\\elastic.serilog.sinks\\8.12.3\\elastic.serilog.sinks.8.12.3.nupkg.sha512",
+    "C:\\Users\\hcguler\\.nuget\\packages\\elastic.transport\\0.5.6\\elastic.transport.0.5.6.nupkg.sha512",
     "C:\\Users\\hcguler\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\hcguler\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\hcguler\\.nuget\\packages\\serilog\\2.9.0\\serilog.2.9.0.nupkg.sha512",
     "C:\\Users\\hcguler\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
     "C:\\Users\\hcguler\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
     "C:\\Users\\hcguler\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
-    "C:\\Users\\hcguler\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+    "C:\\Users\\hcguler\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
+    "C:\\Users\\hcguler\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
+    "C:\\Users\\hcguler\\.nuget\\packages\\system.threading.channels\\8.0.0\\system.threading.channels.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

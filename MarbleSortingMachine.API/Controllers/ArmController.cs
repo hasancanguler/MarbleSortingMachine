@@ -5,6 +5,7 @@ using MarbleSortingMachine.Infrastructure.Interfaces.Arm;
 using MarbleSortingMachine.Infrastructure.Interfaces.Container;
 using MarbleSortingMachine.Infrastructure.Interfaces.Services.Container;
 using Microsoft.AspNetCore.Mvc;
+using Serilog;
 
 namespace MarbleSortingMachineAPI.Controllers
 {
@@ -28,6 +29,8 @@ namespace MarbleSortingMachineAPI.Controllers
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(IEnumerable<ContainerBase>))]
         public ActionResult Sort()
         {
+            Log.Information("Sort is called");
+
             long marbleCount = 1000;
             var container = new BigContainer();
             var marble = new Marble();
