@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Serilog" Version="2.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\MarbleSortingMachine.Contracts\MarbleSortingMachine.Contracts.csproj" />
     <ProjectReference Include="..\MarbleSortingMachine.Domain\MarbleSortingMachine.Domain.csproj" />
   </ItemGroup>

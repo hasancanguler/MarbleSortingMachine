@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "e4hvdk5VgyU=",
+  "dgSpecHash": "gY8LrL3aZUk=",
   "success": true,
   "projectFilePath": "C:\\Users\\hcguler\\OneDrive - Lely\\Desktop\\Files\\Project\\MarbleSortingMachine\\MarbleSortingMachine\\MarbleSortingMachine.Infrastructure\\MarbleSortingMachine.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hcguler\\.nuget\\packages\\serilog\\2.9.0\\serilog.2.9.0.nupkg.sha512"
+  ],
   "logs": []
 }

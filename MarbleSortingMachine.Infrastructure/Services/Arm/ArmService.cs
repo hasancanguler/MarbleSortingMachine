@@ -5,6 +5,7 @@ using MarbleSortingMachine.Domain.Marbles;
 using MarbleSortingMachine.Infrastructure.Interfaces.Arm;
 using MarbleSortingMachine.Infrastructure.Interfaces.Container;
 using MarbleSortingMachine.Infrastructure.Interfaces.Services.Container;
+using Serilog;
 
 namespace MarbleSortingMachine.Infrastructure.Services.Arm
 {
@@ -53,6 +54,8 @@ namespace MarbleSortingMachine.Infrastructure.Services.Arm
                         Count = item.Marbles.Count
                     });
             }
+
+            Log.Information("{Result}", result.Containers);
 
             return result;
         }
