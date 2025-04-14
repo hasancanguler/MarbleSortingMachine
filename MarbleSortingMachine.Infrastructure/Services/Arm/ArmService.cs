@@ -13,12 +13,14 @@ namespace MarbleSortingMachine.Infrastructure.Services.Arm
     {
         private readonly IContainerGenerator _containerGenerator;
         private readonly IContainerService _containerService;
+        private readonly Serilog.ILogger _logger;
         private const int FailTreshold = 3;
 
-        public ArmService(IContainerGenerator containerGenerator, IContainerService containerService)
+        public ArmService(IContainerGenerator containerGenerator, IContainerService containerService, Serilog.ILogger logger)
         {
             _containerGenerator = containerGenerator;
             _containerService = containerService;
+            _logger = logger;
         }
 
         private ArmResponse Sort(ContainerBase bigContainer, List<ColorContainer> colorContainers)
@@ -55,7 +57,7 @@ namespace MarbleSortingMachine.Infrastructure.Services.Arm
                     });
             }
 
-            Log.Information("{Result}", result.Containers);
+            _logger.Information("{Result}", result.Containers);
 
             return result;
         }
