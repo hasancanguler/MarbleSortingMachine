@@ -16,12 +16,15 @@ namespace MarbleSortingMachineAPI.Controllers
         private readonly IArmService _armService;
         private readonly IContainerGenerator _containerGenerator;
         private readonly IContainerService _containerService;
+        private readonly Serilog.ILogger _logger;
 
-        public ArmController(IArmService armService, IContainerGenerator containerGenerator, IContainerService containerService)
+        public ArmController(IArmService armService, IContainerGenerator containerGenerator, 
+            IContainerService containerService, Serilog.ILogger logger)
         {
             _armService = armService;
             _containerGenerator = containerGenerator;
             _containerService = containerService;
+            _logger = logger;
         }
 
         [HttpGet("Sort")]
@@ -29,7 +32,7 @@ namespace MarbleSortingMachineAPI.Controllers
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(IEnumerable<ContainerBase>))]
         public ActionResult Sort()
         {
-            Log.Information("Sort is called");
+            _logger.Information("Sort is called");
 
             long marbleCount = 1000;
             var container = new BigContainer();

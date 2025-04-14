@@ -45,6 +45,7 @@ namespace MarbleSortingMachineAPI
                         .CreateLogger();
 
             // Add services to the container.
+            builder.Services.AddSingleton(Log.Logger);
             builder.Services.AddScoped<IContainerGenerator, ContainerGenerator>();
             builder.Services.AddScoped<IContainerService, ContainerService>();
             builder.Services.AddScoped<IMarbleGenerator, MarbleGenerator>();
