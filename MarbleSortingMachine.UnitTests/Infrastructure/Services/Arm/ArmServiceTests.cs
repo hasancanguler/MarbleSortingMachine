@@ -64,6 +64,9 @@ namespace MarbleSortingMachine.UnitTests.Infrastructure.Services.Arm
                 Returns(colorContainer).
                 Verifiable();
 
+            var logger = _mock.Mock<Serilog.ILogger>();
+            logger.Setup(x => x.Information<List<ContainerResult>>(It.IsAny<string>(), It.IsAny<List<ContainerResult>>())).Verifiable();
+
             var _containerServiceMock = _mock.Mock<IContainerService>();
             _containerServiceMock.Setup(x => x.Shuffle(bigContainer)).Verifiable();
 
